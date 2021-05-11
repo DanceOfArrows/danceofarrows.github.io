@@ -9,7 +9,7 @@ export const greetings = {
   "description": `
   My passion for coding often prevents me from stopping a project until it's completed. 
   I live for the feeling of catharsis that comes from finishing a long project after a lot of hard work!
-  A list of the technologies and the languages that I am familiar can be found
+  A list of the technologies and the languages that I am familiar with can be found
   `,
   "hobbyDescription": "Outside of my programming life, I enjoy quite a few things.  Some of which include:",
   "hobbies": ['Playing video games', 'Playing Magic the Gathering with friends', 'Reading light novels, mangas, manhwas, and webtoon stories', 'Watching anime'],
