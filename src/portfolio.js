@@ -6,8 +6,14 @@ import nomadLogo from './assets/img/icons/common/nomadLogo.jpg'
 export const greetings = {
   "name": "Seamus Le",
   "title": "Hi, I am Seamus!",
-  "description": "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-  "resumeLink": "https://cv.hanzla.ga"
+  "description": `
+  My passion for coding disallows me from stopping after I begin. 
+  The feeling of delight when a feature is completed after many rigorous hours is to die for.
+  Some of the technologies and languages I am familiar can be found
+  `,
+  "hobbyDescription": "Outside of my programming life, I enjoy quite a few things.  Some of which include:",
+  "hobbies": ['Playing video games', 'Playing Magic the Gathering with friends', 'Reading light novels, mangas, manhwas, and webtoon stories', 'Watching anime'],
+  "resumeLink": "https://docs.google.com/document/d/1h0SMBwCqSyXQGZwGP-cYTgwHwOACZm3KPu6PGtOVulM/export?format=pdf"
 }
 
 export const openSource = {

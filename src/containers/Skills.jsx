@@ -13,11 +13,11 @@ import {
 
 import { skillsSection } from "../portfolio";
 
-const Skills = () => {
+const Skills = ({ skillRef }) => {
     return (
         <Fade left duration={1000} distance="40px">
             <Container className="text-center my-5 section section-lg">
-                <h1 className="h1">{skillsSection.title}</h1>
+                <h1 className="h1" ref={skillRef}>{skillsSection.title}</h1>
                 <p className="lead">{skillsSection.subTitle}</p>
                 <Row>
                     <Col lg="6">

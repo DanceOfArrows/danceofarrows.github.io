@@ -11,14 +11,15 @@ import Projects from './containers/Projects';
 import GithubProfile from './containers/GithubProfile'
 
 const App = () => {
+    const skillRef = React.useRef(null);
     return (
         <BrowserRouter>
             <Switch>
                 <Route path="/" exact render={props => (
                     <>
                         <Navigation />
-                        <Greetings />
-                        <Skills />
+                        <Greetings skillRef={skillRef} />
+                        <Skills skillRef={skillRef} />
                         {/* <Proficiency /> */}
                         <Education />
                         <Experience />
