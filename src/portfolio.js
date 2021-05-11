@@ -7,9 +7,9 @@ export const greetings = {
   "name": "Seamus Le",
   "title": "Hi, I am Seamus!",
   "description": `
-  My passion for coding disallows me from stopping after I begin. 
-  The feeling of delight when a feature is completed after many rigorous hours is to die for.
-  Some of the technologies and languages I am familiar can be found
+  My passion for coding often prevents me from stopping a project until it's completed. 
+  I live for the feeling of catharsis that comes from finishing a long project after a lot of hard work!
+  A list of the technologies and the languages that I am familiar can be found
   `,
   "hobbyDescription": "Outside of my programming life, I enjoy quite a few things.  Some of which include:",
   "hobbies": ['Playing video games', 'Playing Magic the Gathering with friends', 'Reading light novels, mangas, manhwas, and webtoon stories', 'Watching anime'],
