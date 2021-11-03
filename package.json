@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://hanzla.ga"
   },
-  "homepage": "https://lullofthesea.github.io/",
+  "homepage": "https://danceofarrows.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
