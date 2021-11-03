@@ -24,7 +24,7 @@ export const greetings = {
 };
 
 export const openSource = {
-  githubUserName: "lullofthesea",
+  githubUserName: "danceofarrows",
 };
 
 export const contact = {};
@@ -33,7 +33,7 @@ export const socialLinks = {
   facebook: "https://www.facebook.com/seamus.le.18/",
   instagram: "https://www.instagram.com/seamustle/",
   twitter: "https://twitter.com/Seamus_Le",
-  github: "https://github.com/lullofthesea",
+  github: "https://github.com/danceofarrows",
   linkedin: "https://www.linkedin.com/in/seamus-le-4355041aa/",
 };
 
